@@ -1,4 +1,4 @@
 {
-    "damejidlo": ["test", "pre_disabled", "development", "testing"],
-    "dealers": ["test", "preXXX", "development", "testing"]
+    "damejidlo": ["test", "pre", "development", "testing"],
+    "dealers": ["test", "pre", "development", "testing"]
 }
