@@ -1,5 +1,5 @@
 {
     "damejidlo": ["test", "pre", "development", "testing"],
     "dealers": ["test", "pre", "development", "testing"],
-    "testFlag" :["test","pre","pos>=4.105"]
+    "testFlag" :["test","pre","pos>=4.102"]
 }
