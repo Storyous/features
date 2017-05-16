@@ -1,5 +1,5 @@
 {
     "damejidlo": ["test", "pre", "development", "testing"],
     "dealers": ["test", "pre", "development", "testing"],
-    "extendedLogging": []
+    "extendedLogging": ["pos>=4.120"]
 }
