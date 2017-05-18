@@ -1,5 +1,5 @@
 {
-    "damejidlo": ["test", "pre", "prod", "development", "testing"],
+    "damejidlo": ["test", "pre", "production", "development", "testing"],
     "dealers": ["test", "pre", "development", "testing"],
     "extendedLogging": []
 }
