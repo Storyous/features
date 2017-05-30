@@ -2,5 +2,7 @@
     "damejidlo": ["test", "pre", "production", "development", "testing"],
     "dealers": ["test", "pre", "development", "testing"],
     "extendedLogging": ["pos>=4.122"],
-    "printOrderNumber": []
+    "printOrderNumber": [],
+    "useAbly": ["57dab243332f920e00b6cc18"],
+    "useAblyPresence": []
 }
