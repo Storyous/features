@@ -1,6 +1,6 @@
 {
     "damejidlo": ["test", "pre", "production", "development", "testing"],
-    "dealers": ["test", "pre", "development", "testing"],
+    "dealers": ["test", "pre", "development", "testing", "production"],
     "extendedLogging": ["pos>=4.122"],
     "printOrderNumber": [],
     "useAbly": ["57dab243332f920e00b6cc17"],
