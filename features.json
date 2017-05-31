@@ -6,5 +6,6 @@
     "useAbly": ["57dab243332f920e00b6cc17"],
     "useAblyPresence": ["57dab243332f920e00b6cc17"],
     "multiplePlacesGroups": ["pre"],
-    "teamviewer": ["pos>=4.122"]
+    "teamviewer": ["pos>=4.122"],
+    "syncFix052017": ["57dab243332f920e00b6cc17"]
 }
