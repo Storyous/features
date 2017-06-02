@@ -8,5 +8,5 @@
     "multiplePlacesGroups": ["pre"],
     "teamviewer": ["57dab243332f920e00b6cc17"],
     "syncFix052017": ["pos>=4.123"],
-    "printEscPosLogo": []
+    "printEscPosLogo": ["pre"]
 }
