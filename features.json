@@ -1,12 +1,13 @@
 {
     "damejidlo": ["test", "pre", "production", "development", "testing"],
     "dealers": ["test", "pre", "development", "testing", "production"],
-    "extendedLogging": ["pos>=4.122"],
+    "extendedLogging": [],
     "printOrderNumber": [],
     "useAbly": ["57dab243332f920e00b6cc17"],
     "useAblyPresence": ["57dab243332f920e00b6cc17"],
     "multiplePlacesGroups": ["pre"],
     "teamviewer": ["57dab243332f920e00b6cc17"],
     "syncFix052017": ["pos>=4.123"],
+    "syncFix062017": ["pos>=4.123"],
     "printEscPosLogo": ["pos>=4.123"]
 }
