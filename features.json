@@ -10,5 +10,6 @@
     "syncFix052017": ["pos>=4.123"],
     "syncFix062017": ["pos>=4.123"],
     "printEscPosLogo": ["pos>=4.123"],
-    "morePaymentTypesInClosure": ["pos>=4.124"]
+    "morePaymentTypesInClosure": ["pos>=4.124"],
+    "responsiveDesign": ["pos>=4.120"]
 }
