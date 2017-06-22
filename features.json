@@ -6,7 +6,7 @@
     "useAbly": ["57dab243332f920e00b6cc17"],
     "useAblyPresence": ["57dab243332f920e00b6cc17"],
     "multiplePlacesGroups": ["pre"],
-    "teamviewer": ["57dab243332f920e00b6cc17", "591d45063b1ec00f00f5f8d3", "58c2a1d61b06b40e0038a613"],
+    "teamviewer": ["57dab243332f920e00b6cc17", "591d45063b1ec00f00f5f8d3", "58c2a1d61b06b40e0038a613", "55af539409393f3d0000ee2a"],
     "syncFix052017": ["pos>=4.123"],
     "syncFix062017": ["pos>=4.123"],
     "printEscPosLogo": ["pos>=4.123"],
