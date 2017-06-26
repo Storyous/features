@@ -12,5 +12,5 @@
     "printEscPosLogo": ["pos>=4.123"],
     "morePaymentTypesInClosure": ["pos>=4.124"],
     "responsiveDesign": ["pos>=4.120"],
-    "phoneNumberInBugreport": ["test", "pre", "pos>=4.120"]
+    "phoneNumberInBugreport": ["pos>=4.120"]
 }
