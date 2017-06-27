@@ -13,5 +13,5 @@
     "morePaymentTypesInClosure": ["pos>=4.124"],
     "responsiveDesign": ["pos>=4.120"],
     "phoneNumberInBugreport": ["pos>=4.120"],
-    "czechInvoices": ["pos>=4.124"]
+    "czechInvoices": []
 }
