@@ -2,7 +2,7 @@
     "damejidlo": ["test", "pre", "production", "development", "testing"],
     "dealers": ["test", "pre", "development", "testing", "production"],
     "extendedLogging": ["55af5394e58fd648000000cf"],
-    "printOrderNumber": ["57dab243332f920e00b6cc17", "5315eb206c14b390ac60331e"],
+    "printOrderNumber": ["57dab243332f920e00b6cc17", "test"],
     "useAbly": ["57dab243332f920e00b6cc17"],
     "useAblyPresence": ["57dab243332f920e00b6cc17"],
     "multiplePlacesGroups": ["pre"],
