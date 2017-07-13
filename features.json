@@ -11,7 +11,7 @@
     "syncFix062017": ["pos>=4.123"],
     "printEscPosLogo": ["pos>=4.123"],
     "morePaymentTypesInClosure": ["pos>=4.124"],
-    "responsiveDesign": ["57dab243332f920e00b6cc17", "55af5394e58fd64800000004"],
+    "responsiveDesign": ["57dab243332f920e00b6cc17", "55af5394e58fd64800000004","55af5394e58fd6480000016e"],
     "phoneNumberInBugreport": ["pos>=4.120"],
     "czechInvoices": ["58c2a1d61b06b40e0038a612", "55af5394e58fd64800000004"]
 }
