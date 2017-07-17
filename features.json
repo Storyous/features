@@ -16,5 +16,5 @@
     "czechInvoices": ["58c2a1d61b06b40e0038a612", "55af5394e58fd64800000004", "pre"],
     "posHttpApi": ["55af5394e58fd64800000004"],
     "posLogHttpBody": ["55af5394e58fd64800000004"],
-    "tariffOrderNumbers": ["test", "pre", "development"]
+    "tariffOrderNumbers": ["test", "pre"]
 }
