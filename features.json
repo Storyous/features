@@ -14,7 +14,7 @@
     "responsiveDesign": ["57dab243332f920e00b6cc17", "55af5394e58fd64800000004","55af5394e58fd6480000016e","5919a4313002b90e002fe9ae"],
     "phoneNumberInBugreport": ["pos>=4.120"],
     "czechInvoices": ["58c2a1d61b06b40e0038a612", "55af5394e58fd64800000004", "pre"],
-    "posHttpApi": ["55af5394e58fd64800000004"],
-    "posLogHttpBody": ["55af5394e58fd64800000004"],
+    "posHttpApi": [],
+    "posLogHttpBody": [],
     "tariffOrderNumbers": ["test", "pre"]
 }
