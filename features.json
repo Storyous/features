@@ -16,5 +16,6 @@
     "czechInvoices": ["58c2a1d61b06b40e0038a612", "55af5394e58fd64800000004", "pre","57dab243332f920e00b6cc17"],
     "posHttpApi": ["55af5394e58fd6480000016e", "5315eb206c14b390ac60331e", "55af5394e58fd64800000004"],
     "posLogHttpBody": ["55af5394e58fd6480000016e", "5315eb206c14b390ac60331e", "55af5394e58fd64800000004"],
+    "posReactToFcmInitNotifications": ["55af5394e58fd64800000004"],
     "tariffOrderNumbers": ["test", "pre"]
 }
