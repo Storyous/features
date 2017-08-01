@@ -1,0 +1,41 @@
+{
+    "start": [
+        "553a615a9bfb20160000000a", 
+        "572b23399fb83a0e00ce77d2",
+        "55e416809bfb20160000000d",
+        "57ff8486bedde40e00f9497d",
+        "56d9692f70e5310e00165a0b",
+        "5735cfee05f4840e00faf6d0",
+        "57ff859fbedde40e00f94983",
+        "58c7ee1f814ff70e0006e2d8",
+        "58c6c5d3814ff70e0006daed"
+    ],
+    "profi": [
+        "553a61e29bfb20160000000c",
+        "55e416e89bfb20160000000f",
+        "5735cfea05f4840e00faf6cf",
+        "57ff861ebedde40e00f94986",
+        "58c7eecb814ff70e0006e2de",
+        "58ee3e92b49f650f0035a0b0",
+        "58c6c6bd814ff70e0006daf3"
+    ],
+    "standard": [
+        "58c7ee90814ff70e0006e2dc"
+    ],
+    "byznys": [
+        "553a61b39bfb20160000000b",
+        "56cec1a5df25010e00b0a6cf",
+        "56b9ebd0e251540e006d993d",
+        "55e416ad9bfb20160000000e",
+        "56b9c394e251540e006d98d2",
+        "56c1f092d4980b0e00b58e91"
+    ],
+    "free": [
+        "5706256d158adc0e00a4f437",
+        "580f9de747a77d0e00acedb8",
+        "56b9e93be251540e006d9934"
+    ],
+    "plus": [
+        "58c6c62b814ff70e0006daef"
+    ]
+}
