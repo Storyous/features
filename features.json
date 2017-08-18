@@ -19,6 +19,7 @@
     "posReactToFcmInitNotifications": ["55af5394e58fd64800000004"],
     "tariffOrderNumbers": ["tariff:profi,standard,plus"],
     "dailyMenu": ["55af5394e58fd64800000004"],
+    "posFullscreen": ["pos>=4.160"],
     "testFeature": [
         "tariff:profi,standard", 
         "tariffId:553a61b39bfb20160000000b,56cec1a5df25010e00b0a6cf", 
