@@ -18,7 +18,7 @@
     "posLogHttpBody": ["pos>=4.140"],
     "posReactToFcmInitNotifications": ["55af5394e58fd64800000004"],
     "tariffOrderNumbers": ["tariff:profi,standard,plus"],
-    "dailyMenu": ["55af5394e58fd64800000004"],
+    "dailyMenu": ["55af5394e58fd64800000004", "pre"],
     "posFullscreen": ["57dab243332f920e00b6cc17"],
     "testFeature": [
         "tariff:profi,standard",
