@@ -26,5 +26,5 @@
         "merchantId=55af5394e58fd6480000016e,55af5394e58fd64800000004"
     ],
     "chargeIntegrations": ["test", "development", "testing"],
-    "shorterPrintTimeout": ["55af5394e58fd64800000004"]
+    "posShorterPrintTimeout": ["55af5394e58fd64800000004"]
 }
