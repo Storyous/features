@@ -25,5 +25,6 @@
         "tariffId:553a61b39bfb20160000000b,56cec1a5df25010e00b0a6cf",
         "merchantId=55af5394e58fd6480000016e,55af5394e58fd64800000004"
     ],
-    "chargeIntegrations": ["test", "development", "testing"]
+    "chargeIntegrations": ["test", "development", "testing"],
+    "shorterPrintTimeout": ["55af5394e58fd64800000004"]
 }
