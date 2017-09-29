@@ -19,7 +19,7 @@
     "posLogHttpBody": ["pos>=4.140"],
     "posReactToInitNotifications": ["55af5394e58fd64800000004"],
     "tariffOrderNumbers": ["tariff:profi,standard,plus"],
-    "dailyMenu": ["57dab243332f920e00b6cc17", "598c12d919db0d3e00dde41b", "591d45063b1ec00f00f5f8d3", "5964aa34c0d5c1120095625f", "59a66aca70a64712002fe5ad", "55af5394e58fd64800000004", "test"],
+    "dailyMenu": ["55af5394e58fd64800000247", "57dab243332f920e00b6cc17", "598c12d919db0d3e00dde41b", "591d45063b1ec00f00f5f8d3", "5964aa34c0d5c1120095625f", "59a66aca70a64712002fe5ad", "55af5394e58fd64800000004", "test"],
     "dailyMenuUpdates": ["test"],
     "posFullscreen": ["57dab243332f920e00b6cc17", "55af5394e58fd6480000016e", "55af5394e58fd648000000cb", "59b2a274173419520032421f"],
     "testFeature": [
