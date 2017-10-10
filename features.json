@@ -29,5 +29,6 @@
     ],
     "chargeIntegrations": ["test", "development", "testing"],
     "canaryIslands": ["59bb9c95d8508113009d5722"],
-    "posShorterPrintTimeout": ["55af5394e58fd64800000004"]
+    "posShorterPrintTimeout": ["55af5394e58fd64800000004"],
+    "releasesApiMD5": ["test", "pre", "production", "development", "testing"]
 }
