@@ -1,6 +1,8 @@
 # README
 This is a place where features are managed across all Storyous systems. Purpose of this repository is to provide a convenient, easy to use and one standard way how to turn on/off separate features only for some merchants, tariffs, environments, versions of POS and so on. This repository is used as a configuration for our _features service_ application, which works as provider of features evaluation for all our other systems.
 
+> As a online editor you can use [JSON Editor Online](http://www.jsoneditoronline.org/).
+
 This repository consists of two main files at the moment of writing this readme file.
 
 - features.json
