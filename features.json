@@ -17,7 +17,7 @@
     "posHttpApi": ["pos>=4.140"],
     "posLogStackTrace": ["55af5394e58fd64800000004", "5315eb206c14b390ac60331e"],
     "posLogHttpBody": ["pos>=4.140"],
-    "posReactToInitNotifications": ["55af5394e58fd64800000004", "5315eb206c14b390ac60331e"],
+    "posReactToInitNotifications": ["55af5394e58fd64800000004", "5315eb206c14b390ac60331e", "57dab243332f920e00b6cc17"],
     "tariffOrderNumbers": ["tariff:profi,standard,plus"],
     "dailyMenu": ["test", "production"],
     "dailyMenuUpdates": ["test", "57dab243332f920e00b6cc17"],
