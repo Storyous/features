@@ -32,5 +32,5 @@
     "posLogCrashlytics": ["55af5394e58fd64800000004"],
     "posShorterPrintTimeout": ["55af5394e58fd64800000004"],
     "releasesApiMD5": ["test", "pre", "production", "development", "testing"],
-    "disallowPosVersionsToLogin": []
+    "disallowPosVersionsToLogin": ["pos<4.111"]
 }
