@@ -20,7 +20,7 @@
     "posReactToInitNotifications": ["pos>=4.210"],
     "tariffOrderNumbers": ["tariff:profi,standard,plus"],
     "dailyMenu": ["test", "production", "pos>=4.200"],
-    "dailyMenuUpdates": ["test", "pos>=4.210"],
+    "dailyMenuUpdates": ["test", "production", "pos>=4.210"],
     "posFullscreen": ["55af5394e58fd64800000004","55af5394e58fd6480000000b", "55af5394e58fd648000002de", "55af5394e58fd64800000066", "55af5394e58fd64800000082", "55af5394e58fd648000000b5", "55af5394e58fd6480000019d", "55af5394e58fd64800000141", "55af5394e58fd64800000345", "55af5394e58fd64800000066", "57e5236e766b220e00206846", "582c3bf2102d7e0e00a6b0ed", "57dab243332f920e00b6cc17", "55af5394e58fd6480000016e", "55af5394e58fd648000000cb", "59b2a274173419520032421f"],
     "testFeature": [
         "tariff:profi,standard",
