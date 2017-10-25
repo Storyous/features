@@ -34,5 +34,5 @@
     "posShorterPrintTimeout": ["55af5394e58fd64800000004"],
     "posShowStatus": ["5315eb206c14b390ac60331e","59e8bba7b133295300e4f35f"],
     "releasesApiMD5": ["test", "pre", "production", "development", "testing"],
-    "disallowPosVersionsToLogin": ["pos<4.131"]
+    "disallowPosVersionsToLogin": ["pos<4.170"]
 }
