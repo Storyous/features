@@ -22,7 +22,7 @@
     "tariffOrderNumbers": ["tariff:profi,standard,plus"],
     "dailyMenu": ["test", "production", "pos>=4.200"],
     "dailyMenuUpdates": ["test", "production", "pos>=4.210"],
-    "priceLevels": "test",
+    "priceLevels": ["test"],
     "posFullscreen": ["test"],
     "testFeature": [
         "tariff:profi,standard",
