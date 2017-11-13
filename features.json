@@ -37,5 +37,6 @@
     "releasesApiMD5": ["test", "pre", "production", "development", "testing"],
     "disallowPosVersionsToLogin": ["pos<4.150"],
     "voiceControl": ["57dab243332f920e00b6cc17"],
-    "disallowGetPosLogs": []
+    "disallowGetPosLogs": [],
+    "responsiveStockUps": ["test"]
 }
