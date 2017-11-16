@@ -38,5 +38,6 @@
     "disallowPosVersionsToLogin": ["pos<4.150"],
     "voiceControl": ["57dab243332f920e00b6cc17"],
     "disallowGetPosLogs": [],
-    "responsiveStockUps": ["test", "5919a4313002b90e002fe9ae", "55af5394e58fd6480000016e", "55af5394e58fd64800000247", "57dab243332f920e00b6cc17", "585a95a901609b0e0022eaf9", "58204f9fa219bc0e00b0aeec", "55af5394e58fd6480000039b", "59afbf7890cf81520083aa69"]
+    "responsiveStockUps": ["test", "5919a4313002b90e002fe9ae", "55af5394e58fd6480000016e", "55af5394e58fd64800000247", "57dab243332f920e00b6cc17", "585a95a901609b0e0022eaf9", "58204f9fa219bc0e00b0aeec", "55af5394e58fd6480000039b", "59afbf7890cf81520083aa69"],
+    "tariffsPerPlace": ["development"]
 }
