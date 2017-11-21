@@ -40,7 +40,7 @@
     "voiceControl": ["57dab243332f920e00b6cc17"],
     "disallowGetPosLogs": [],
     "responsiveStockUps": ["test", "55af5394e58fd648000000b5", "590b1cd0d846a50f002f9dd2", "58c41dbd7b293d0e009ea486", "57aafd29b1bd980e0089cb84", "5919a4313002b90e002fe9ae", "55af5394e58fd6480000016e", "55af5394e58fd64800000247", "57dab243332f920e00b6cc17", "585a95a901609b0e0022eaf9", "58204f9fa219bc0e00b0aeec", "55af5394e58fd6480000039b", "59afbf7890cf81520083aa69"],
-    "tariffsPerPlace": ["development"],
+    "tariffsPerPlace": ["development", "test"],
     "differentTariffsPerPlace": [],
     "confirmDjOrder": ["test", "5315eb206c14b390ac60331e", "591d45063b1ec00f00f5f8d3"]
 }
