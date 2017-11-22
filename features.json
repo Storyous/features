@@ -34,7 +34,7 @@
     "posLogCrashlyticsRestart": ["55af5394e58fd64800000004"],
     "posShorterPrintTimeout": ["55af5394e58fd64800000004"],
     "posShowStatus": ["production"],
-    "posPushyGetLogs": ["57dab243332f920e00b6cc17"],
+    "posPushyGetLogs": ["test", "57dab243332f920e00b6cc17"],
     "releasesApiMD5": ["test", "pre", "production", "development", "testing"],
     "disallowPosVersionsToLogin": ["pos<4.150"],
     "voiceControl": ["57dab243332f920e00b6cc17"],
