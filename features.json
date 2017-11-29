@@ -43,7 +43,7 @@
     "differentTariffsPerPlace": [],
     "confirmDjOrder": ["test", "5315eb206c14b390ac60331e", "591d45063b1ec00f00f5f8d3"],
     "openCashDrawer": ["57dab243332f920e00b6cc17"],
-    "newMenuDatagrid": [],
+    "newMenuDatagrid": ["test"],
     "newMenuEditForm": ["test"],
     "priceLevels": ["test"]
 }
