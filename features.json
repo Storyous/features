@@ -46,5 +46,5 @@
     "newMenuDatagrid": ["test", "57dab243332f920e00b6cc17", "55af5394e58fd64800000004", "55af5394e58fd6480000016e"],
     "newMenuEditForm": ["test", "57dab243332f920e00b6cc17", "55af5394e58fd64800000247", "55af5394e58fd6480000016e"],
     "priceLevels": ["test", "57dab243332f920e00b6cc17", "55af5394e58fd6480000016e", "55af5394e58fd64800000247"],
-    "automaticStockUpUpload": ["test"]
+    "automaticStockUpUpload": ["57dab243332f920e00b6cc17", "test"]
 }
