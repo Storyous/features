@@ -45,7 +45,7 @@
     "openCashDrawer": ["57dab243332f920e00b6cc17"],
     "newMenuDatagrid": ["test", "57dab243332f920e00b6cc17", "55af5394e58fd64800000004", "55af5394e58fd6480000016e"],
     "newMenuEditForm": ["test", "57dab243332f920e00b6cc17", "55af5394e58fd64800000247", "55af5394e58fd6480000016e"],
-    "priceLevels": ["test", "57dab243332f920e00b6cc17", "55af5394e58fd6480000016e", "55af5394e58fd64800000247"],
+    "priceLevels": ["test", "57dab243332f920e00b6cc17", "55af5394e58fd6480000016e", "55af5394e58fd64800000247", "59660643b2c0342d00319bb4"],
     "automaticStockUpUpload": ["57dab243332f920e00b6cc17", "test"],
     "posLogTerminalDetailed": ["57dab243332f920e00b6cc17", "579776e2c624630e009f3cd1"]
 }
