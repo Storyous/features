@@ -43,8 +43,8 @@
     "differentTariffsPerPlace": [],
     "confirmDjOrder": ["test", "5315eb206c14b390ac60331e", "591d45063b1ec00f00f5f8d3"],
     "openCashDrawer": ["57dab243332f920e00b6cc17"],
-    "newMenuDatagrid": ["test", "57dab243332f920e00b6cc17", "55af5394e58fd64800000004", "55af5394e58fd6480000016e"],
-    "newMenuEditForm": ["test", "57dab243332f920e00b6cc17", "55af5394e58fd64800000247", "55af5394e58fd6480000016e"],
+    "newMenuDatagrid": ["57dab243332f920e00b6cc17", "55af5394e58fd64800000004", "55af5394e58fd6480000016e"],
+    "newMenuEditForm": ["57dab243332f920e00b6cc17", "55af5394e58fd64800000247", "55af5394e58fd6480000016e"],
     "priceLevels": ["test", "57dab243332f920e00b6cc17", "55af5394e58fd6480000016e", "55af5394e58fd64800000247"],
     "automaticStockUpUpload": ["57dab243332f920e00b6cc17", "test"],
     "posLogTerminalDetailed": ["57dab243332f920e00b6cc17", "579776e2c624630e009f3cd1"]
