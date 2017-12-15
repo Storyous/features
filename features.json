@@ -48,5 +48,5 @@
     "priceLevels": ["test", "tariff:profi", "57dab243332f920e00b6cc17", "55af5394e58fd6480000016e", "55af5394e58fd64800000247", "59660643b2c0342d00319bb4"],
     "automaticStockUpUpload": ["57dab243332f920e00b6cc17", "test", "55af5394e58fd6480000016e", "5919a4313002b90e002fe9ae", "55af5394e58fd64800000247"],
     "posLogTerminalDetailed": ["57dab243332f920e00b6cc17", "579776e2c624630e009f3cd1"],
-    "overviewRequests": ["5315eb206c14b390ac60331e"]
+    "overviewRequests": ["5315eb206c14b390ac60331e", "55af5394e58fd648000000f1"]
 }
