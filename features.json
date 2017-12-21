@@ -31,7 +31,7 @@
     "chargeIntegrations": ["test", "development", "testing"],
     "canaryIslands": ["59bb9c95d8508113009d5722", "59958894db7f4d2f0017669e"],
     "posLogCrashlyticsRestart": ["55af5394e58fd64800000004"],
-    "posShorterPrintTimeout": [],
+    "posShorterPrintTimeout": ["pos>4.130"],
     "posShowStatus": ["production"],
     "posPushyGetLogs": ["test", "57dab243332f920e00b6cc17"],
     "releasesApiMD5": ["test", "pre", "production", "development", "testing"],
