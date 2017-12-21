@@ -49,5 +49,6 @@
     "automaticStockUpUpload": ["5a3799c14d03514400d4f49f", "57dab243332f920e00b6cc17", "test", "55af5394e58fd6480000016e", "5919a4313002b90e002fe9ae", "55af5394e58fd64800000247"],
     "posLogTerminalDetailed": ["57dab243332f920e00b6cc17", "579776e2c624630e009f3cd1", "580f64e6ad4bc10e00aaa71e"],
     "overviewRequests": ["5315eb206c14b390ac60331e", "55af5394e58fd648000000f1"],
+    "logWebRequests": ["test"],
     "multiplePAYs": ["development", "test"]
 }
