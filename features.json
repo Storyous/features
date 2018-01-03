@@ -50,5 +50,6 @@
     "posLogTerminalDetailed": ["57dab243332f920e00b6cc17", "579776e2c624630e009f3cd1", "580f64e6ad4bc10e00aaa71e"],
     "overviewRequests": ["5315eb206c14b390ac60331e", "55af5394e58fd648000000f1"],
     "logWebRequests": ["test"],
-    "multiplePAYs": ["development", "test"]
+    "multiplePAYs": ["development", "test"],
+    "autocompleteProducts": ["55af5394e58fd64800000004", "test"]
 }
