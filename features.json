@@ -43,7 +43,7 @@
     "differentTariffsPerPlace": [],
     "confirmDjOrder": ["test", "5315eb206c14b390ac60331e", "591d45063b1ec00f00f5f8d3"],
     "openCashDrawer": ["57dab243332f920e00b6cc17"],
-    "newMenuDatagrid": ["55af5394e58fd64800000004", "55af5394e58fd6480000016e"],
+    "newMenuDatagrid": ["55af5394e58fd64800000004"],
     "newMenuEditForm": ["test", "55af5394e58fd64800000247", "55af5394e58fd6480000016e", "59660643b2c0342d00319bb4", "57dab243332f920e00b6cc17", "56c2f676d4980b0e00b58fa3", "5919a4313002b90e002fe9ae"],
     "priceLevels": ["test", "tariff:profi", "57dab243332f920e00b6cc17", "55af5394e58fd6480000016e", "55af5394e58fd64800000247", "59660643b2c0342d00319bb4", "5919a4313002b90e002fe9ae"],
     "automaticStockUpUpload": ["5a3799c14d03514400d4f49f", "57dab243332f920e00b6cc17", "test", "55af5394e58fd6480000016e", "5919a4313002b90e002fe9ae", "55af5394e58fd64800000247"],
