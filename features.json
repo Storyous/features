@@ -41,7 +41,7 @@
     "responsiveStockUps": ["test", "5a3799c14d03514400d4f49f", "59ad1c2fad89a9520055c57c", "55af5394e58fd648000002e2", "55af5394e58fd648000000b5", "58c41dbd7b293d0e009ea486", "57aafd29b1bd980e0089cb84", "5919a4313002b90e002fe9ae", "55af5394e58fd6480000016e", "55af5394e58fd64800000247", "57dab243332f920e00b6cc17", "585a95a901609b0e0022eaf9", "58204f9fa219bc0e00b0aeec", "55af5394e58fd6480000039b", "59afbf7890cf81520083aa69"],
     "tariffsPerPlace": ["development", "test", "production"],
     "differentTariffsPerPlace": ["test"],
-    "confirmDjOrder": ["test", "5315eb206c14b390ac60331e", "591d45063b1ec00f00f5f8d3"],
+    "confirmDjOrder": ["test", "production"],
     "openCashDrawer": ["57dab243332f920e00b6cc17", "5a2ec76da39c0f44006062fb"],
     "newMenuDatagrid": ["55af5394e58fd64800000004"],
     "newMenuEditForm": ["test", "tariff:profi", "5a2ec76da39c0f44006062fb", "581734c27271a90e00c5d1fe", "55af5394e58fd64800000247", "55af5394e58fd6480000016e", "59660643b2c0342d00319bb4", "57dab243332f920e00b6cc17", "56c2f676d4980b0e00b58fa3", "5919a4313002b90e002fe9ae"],
