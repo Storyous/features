@@ -19,7 +19,7 @@
     "posLogStackTrace": ["55af5394e58fd64800000004", "5315eb206c14b390ac60331e"],
     "posLogHttpBody": ["pos>=4.140"],
     "posReactToInitNotifications": ["pos>=4.210"],
-    "tariffOrderNumbers": ["tariff:profi,standard,plus", "5a2fbcbda39c0f440060f4ef", "5a4e2e5302a5f15500064159"],
+    "tariffOrderNumbers": ["tariff:profi,standard,plus", "5a2fbcbda39c0f440060f4ef", "5a4e2e5302a5f15500064159", "5a2a6c67bcca4d4f00c53fb4"],
     "dailyMenu": ["test", "production", "pos>=4.200"],
     "dailyMenuUpdates": ["test", "production", "pos>=4.210"],
     "posFullscreen": ["test"],
