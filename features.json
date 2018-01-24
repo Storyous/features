@@ -28,7 +28,7 @@
         "tariffId:553a61b39bfb20160000000b,56cec1a5df25010e00b0a6cf",
         "merchantId=55af5394e58fd6480000016e,55af5394e58fd64800000004"
     ],
-    "chargeIntegrations": ["test", "development", "testing"],
+    "chargeIntegrations": ["test", "development", "testing", "581201f6d5e8680d008f0cec", "58188fe4255f1b0e00c15919"],
     "canaryIslands": ["59bb9c95d8508113009d5722", "59958894db7f4d2f0017669e"],
     "posLogCrashlyticsRestart": ["55af5394e58fd64800000004"],
     "posShorterPrintTimeout": ["pos>4.130"],
