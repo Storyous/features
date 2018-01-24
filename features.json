@@ -51,5 +51,6 @@
     "overviewRequests": ["5315eb206c14b390ac60331e", "55af5394e58fd648000000f1", "58c2a1d61b06b40e0038a612"],
     "logWebRequests": ["test"],
     "multiplePAYs": ["development", "test"],
-    "autocompleteProducts": ["55af5394e58fd64800000004", "test", "57dab243332f920e00b6cc17"]
+    "autocompleteProducts": ["55af5394e58fd64800000004", "test", "57dab243332f920e00b6cc17"],
+    "posDisplayBig14Layout": ["57dab243332f920e00b6cc17"]
 }
