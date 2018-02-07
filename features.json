@@ -42,7 +42,7 @@
     "tariffsPerPlace": ["development", "test", "production"],
     "differentTariffsPerPlace": ["test"],
     "confirmDjOrder": ["test", "production"],
-    "openCashDrawer": ["57dab243332f920e00b6cc17", "5a2ec76da39c0f44006062fb", "5a37ddb889e2a55500523000"],
+    "openCashDrawer": ["5a79a181d39548550001f5f1", "57dab243332f920e00b6cc17", "5a2ec76da39c0f44006062fb", "5a37ddb889e2a55500523000"],
     "newMenuDatagrid": ["55af5394e58fd64800000004", "5970885c7fef78120080d63d"],
     "newMenuEditForm": ["test", "production", "tariff:profi", "598c12d919db0d3e00dde41b", "581734c27271a90e00c5d1fe", "5a2455b4ec27d244000b6285", "5a2ec76da39c0f44006062fb", "581734c27271a90e00c5d1fe", "55af5394e58fd64800000247", "55af5394e58fd6480000016e", "59660643b2c0342d00319bb4", "57dab243332f920e00b6cc17", "56c2f676d4980b0e00b58fa3", "5919a4313002b90e002fe9ae"],
     "priceLevels": ["test", "tariff:profi", "598c12d919db0d3e00dde41b", "581734c27271a90e00c5d1fe", "5a2455b4ec27d244000b6285", "5a2ec76da39c0f44006062fb", "581734c27271a90e00c5d1fe", "57dab243332f920e00b6cc17", "55af5394e58fd6480000016e", "55af5394e58fd64800000247", "59660643b2c0342d00319bb4", "5919a4313002b90e002fe9ae"],
