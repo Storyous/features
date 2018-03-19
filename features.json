@@ -35,7 +35,7 @@
     "posShowStatus": ["production"],
     "posPushyGetLogs": ["test", "57dab243332f920e00b6cc17"],
     "releasesApiMD5": ["test", "pre", "production", "development", "testing"],
-    "disallowPosVersionsToLogin": ["pos<4.150"],
+    "disallowPosVersionsToLogin": ["pos<4.250"],
     "voiceControl": ["57dab243332f920e00b6cc17","59e8bba7b133295300e4f35f","55af5394e58fd64800000247"],
     "disallowGetPosLogs": [],
     "responsiveStockUps": ["test", "production", "55af5394e58fd648000002c1", "5a32afca0f10364400bea9c1", "5a3799c14d03514400d4f49f", "59ad1c2fad89a9520055c57c", "55af5394e58fd648000002e2", "55af5394e58fd648000000b5", "58c41dbd7b293d0e009ea486", "57aafd29b1bd980e0089cb84", "5919a4313002b90e002fe9ae", "55af5394e58fd6480000016e", "55af5394e58fd64800000247", "57dab243332f920e00b6cc17", "585a95a901609b0e0022eaf9", "58204f9fa219bc0e00b0aeec", "55af5394e58fd6480000039b", "59afbf7890cf81520083aa69"],
