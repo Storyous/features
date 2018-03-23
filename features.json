@@ -2,7 +2,7 @@
     "damejidlo": ["test", "pre", "production", "development", "testing"],
     "dealers": ["test", "pre", "development", "testing", "production"],
     "extendedLogging": ["55af5394e58fd648000000cf", "57e23c2c69082d0e009a4d15"],
-    "printOrderNumber": ["5aaf93b69486dc55007a5ac5", "5aab784a21dc8f550033b06d", "5a9ff224b278065500b31cb7", "5a97d05b2626c5550054c99f", "5a93d8c51440b85500e9e73b", "599bdeb6ede2db2d00518174", "58d53a02e9c83a0e0018055d", "5a8ecddf3c25cb5500888301", "5a8d2f0d94435a550028fd4e", "5a7965638f872e5500fb19eb", "5a79a181d39548550001f5f1", "5a2a6c67bcca4d4f00c53fb4", "5a2fbcbda39c0f440060f4ef", "57dab243332f920e00b6cc17", "5315eb206c14b390ac60331e","594bb6c8da901a0f00e02866", "pre", "production"],
+    "printOrderNumber": ["test", "production"],
     "useAbly": [],
     "useAblyPresence": [],
     "multiplePlacesGroups": ["pre"],
