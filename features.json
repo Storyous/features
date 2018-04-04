@@ -19,7 +19,7 @@
     "posLogStackTrace": ["55af5394e58fd64800000004", "5315eb206c14b390ac60331e"],
     "posLogHttpBody": ["pos>=4.140"],
     "posReactToInitNotifications": ["pos>=4.210"],
-    "tariffOrderNumbers": ["tariff:profi,standard,plus","5abbb998ec093955000b86c5", "5aaf93b69486dc55007a5ac5", "5aab784a21dc8f550033b06d", "5a9ff224b278065500b31cb7", "5a97d05b2626c5550054c99f", "599bdeb6ede2db2d00518174", "58d53a02e9c83a0e0018055d", "5a7965638f872e5500fb19eb", "5a79a181d39548550001f5f1", "5a2f9547a39c0f440060bcd0", "5a2fbcbda39c0f440060f4ef", "5a4e2e5302a5f15500064159", "5a2a6c67bcca4d4f00c53fb4"],
+    "tariffOrderNumbers": ["tariff:profi,standard,plus","5ac47c503110a15500998c2c", "5abbb998ec093955000b86c5", "5aaf93b69486dc55007a5ac5", "5aab784a21dc8f550033b06d", "5a9ff224b278065500b31cb7", "5a97d05b2626c5550054c99f", "599bdeb6ede2db2d00518174", "58d53a02e9c83a0e0018055d", "5a7965638f872e5500fb19eb", "5a79a181d39548550001f5f1", "5a2f9547a39c0f440060bcd0", "5a2fbcbda39c0f440060f4ef", "5a4e2e5302a5f15500064159", "5a2a6c67bcca4d4f00c53fb4"],
     "dailyMenu": ["test", "production", "pos>=4.200"],
     "dailyMenuUpdates": ["test", "production", "pos>=4.210"],
     "posFullscreen": [],
