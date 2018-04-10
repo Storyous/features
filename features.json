@@ -51,7 +51,7 @@
     "bidvestAutomaticStockUpUpload": [],
     "illyAutomaticStockUpUpload": [],
     "jasoAutomaticStockUpUpload": [],
-    "makroAutomaticStockUpUpload": [],
+    "makroAutomaticStockUpUpload": ["59b650d3c243d25200efd13f"],
     "vrtalAutomaticStockUpUpload": [],
     "posLogTerminalDetailed": ["59e8bba7b133295300e4f35f", "5a0188feb678c353000b9159", "57dab243332f920e00b6cc17", "579776e2c624630e009f3cd1", "580f64e6ad4bc10e00aaa71e"],
     "overviewRequests": ["5315eb206c14b390ac60331e", "55af5394e58fd648000000f1", "58c2a1d61b06b40e0038a612"],
