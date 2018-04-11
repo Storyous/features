@@ -69,5 +69,5 @@
     "recurringPayments": ["development", "test", "production"],
     "marketplace": ["development", "test"],
     "customerDisplay": ["57dab243332f920e00b6cc17", "5a0188feb678c353000b9159"],
-    "shoppingList": ["test"]
+    "shoppingList": ["test", "57dab243332f920e00b6cc17"]
 }
