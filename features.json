@@ -67,7 +67,7 @@
     "productLabels": ["test", "55af5394e58fd648000000f1", "5a93ccf1eeef2655003fc6f0", "581734c27271a90e00c5d1fe", "57dab243332f920e00b6cc17", "tariff:profi,standard"],
     "splitBill": ["test", "5abb726074cb1c550002810a", "55af5394e58fd64800000247", "59930d045edac22d0056eb50", "5919a4313002b90e002fe9ae", "55af5394e58fd64800000247", "5a2ec76da39c0f44006062fb", "598c12d919db0d3e00dde41b", "57dab243332f920e00b6cc17", "59e8bba7b133295300e4f35f"],
     "recurringPayments": ["development", "test", "production"],
-    "marketplace": ["development", "test"],
+    "marketplace": ["development", "test", "production"],
     "customerDisplay": ["5a0188feb678c353000b9159", "57dab243332f920e00b6cc17", "5a0188feb678c353000b9159"],
     "shoppingList": ["test", "5919a4313002b90e002fe9ae", "57dab243332f920e00b6cc17"],
     "newAgreements": ["development", "test"]
