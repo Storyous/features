@@ -560,5 +560,9 @@
    "newAgreements":[
       "development",
       "test"
+   ],
+   "hideAgreementsTab":[
+      "development",
+      "test"
    ]
 }
