@@ -90,7 +90,8 @@
       "59afbf7890cf81520083aa69",
       "59e46bfc46de2b530090904b",
       "59930e185edac22d0056f100",
-      "5a37db9c89e2a55500522f90"
+      "5a37db9c89e2a55500522f90",
+      "5a840834c1f9e75500cb01f0"
    ],
    "phoneNumberInBugreport":[
       "pos>=4.120"
@@ -364,6 +365,9 @@
       "59b650d3c243d25200efd13f"
    ],
    "vrtalAutomaticStockUpUpload":[
+
+   ],
+   "kosikAutomaticStockUpUpload":[
 
    ],
    "posLogTerminalDetailed":[
