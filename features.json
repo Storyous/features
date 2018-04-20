@@ -570,5 +570,5 @@
    ],
    "allowNewAgreementsForPosVersion":[
       "pos>4.311"
-   ],
+   ]
 }
