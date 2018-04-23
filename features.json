@@ -5,7 +5,7 @@
       "production",
       "development",
       "testing",
-      "supertesting",
+      "supertesting"
    ],
    "dealers":[
       "test",
