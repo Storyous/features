@@ -568,6 +568,7 @@
       "test"
    ],
    "allowNewAgreementsForPosVersion":[
-      "pos>4.311"
+      "pos>4.311",
+      "test"
    ]
 }
