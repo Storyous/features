@@ -586,6 +586,6 @@
    "allowNewAgreementsForPosVersion":[
       "pos>4.311",
       "test",
-      "57dab243332f920e00b6cc17"
+      "production"
    ]
 }
