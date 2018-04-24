@@ -576,7 +576,8 @@
       "development",
       "test",
       "5ad85a56cf2e03001452f9cd",
-      "5addd4b93db6c9005455e53f"
+      "5addd4b93db6c9005455e53f",
+      "57dab243332f920e00b6cc17"
    ],
    "hideAgreementsTab":[
       "development",
@@ -584,6 +585,7 @@
    ],
    "allowNewAgreementsForPosVersion":[
       "pos>4.311",
-      "test"
+      "test",
+      "57dab243332f920e00b6cc17"
    ]
 }
