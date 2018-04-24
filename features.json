@@ -599,5 +599,8 @@
       "pos>4.311",
       "test",
       "production"
+   ],
+   "posReinitOnSocketReconnect":[
+      "57dab243332f920e00b6cc17"
    ]
 }
