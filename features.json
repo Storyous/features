@@ -611,5 +611,8 @@
       "5ab90af9f9edd6550040bdad",
       "57fdccc10918550e0028d332",
       "5a840834c1f9e75500cb01f0"
+   ],
+   "doNotUseSentry":[
+      "production"
    ]
 }
