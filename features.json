@@ -601,6 +601,7 @@
       "production"
    ],
    "posReinitOnSocketReconnect":[
+      "55af5394e58fd64800000217",
       "57dab243332f920e00b6cc17",
       "55af5394e58fd64800000247",
       "5ab90c091dad10550096e1c4",
