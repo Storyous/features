@@ -598,9 +598,8 @@
       "test"
    ],
    "allowNewAgreementsForPosVersion":[
-      "pos>4.311",
-      "test",
-      "production"
+      "pos>=4.320",
+      "test"
    ],
    "posReinitOnSocketReconnect":[
       "57fcb591e6d1b20e0014ed37"
