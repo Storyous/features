@@ -26,7 +26,8 @@
       "57431172bebe9b0e00e3b5c2",
       "55af5394e58fd64800000345",
       "596b855a0df6692f00f5be3c",
-      "55af5394e58fd648000002c6"
+      "55af5394e58fd648000002c6",
+      "57dab243332f920e00b6cc17"
    ],
    "printOrderNumber":[
       "test",
@@ -203,8 +204,7 @@
       "production"
    ],
    "posPushyGetLogs":[
-      "test",
-      "57dab243332f920e00b6cc17"
+      "test"
    ],
    "releasesApiMD5":[
       "test",
