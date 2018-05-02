@@ -617,7 +617,6 @@
       "pos>=4.320"
    ],
    "doNotUseSentry":[
-      "production"
    ],
    "disableStoryousLogo": [
       "57dab243332f920e00b6cc17",
