@@ -270,10 +270,12 @@
    ],
    "newMenuDatagrid":[
       "test",
+      "5a4f92db368b2f55009d9274",
       "55af5394e58fd64800000247",
       "57dab243332f920e00b6cc17",
       "55af5394e58fd64800000004",
-      "5970885c7fef78120080d63d"
+      "5970885c7fef78120080d63d",
+      "5a1eb91d8b9b9c1b00b2ebb2"
    ],
    "newMenuEditForm":[
       "test",
@@ -282,6 +284,8 @@
    "priceLevels":[
       "test",
       "tariff:profi_4,standard_4,profi",
+      "59930d045edac22d0056eb50",
+      "5ae97214af1b680054f3e45a",
       "5ad6f4cae89025004391b996",
       "5acc8f2d45392b5500654471",
       "5ace1b17710f44550085bf1e",
@@ -318,6 +322,7 @@
    ],
    "automaticStockUpUpload":[
       "test",
+      "5a09cf783768245300598661",
       "59477efa3e5e560f0002bed7",
       "57581897441e5e0e00b1dcca",
       "55af5394e58fd6480000013b",
@@ -332,7 +337,6 @@
       "59941aa1f52cba2d00486a03",
       "55af5394e58fd64800000161",
       "58e279aa03f3a60f0050cbea",
-      "596b855a0df6692f00f5be3c",
       "5ab4122aac52b61500e25340",
       "5ab41582ac52b61500e253d3",
       "5ab412a78de8515500c6e886",
@@ -422,6 +426,7 @@
       "57dab243332f920e00b6cc17"
    ],
    "posDisplayBig14Layout":[
+      "5ad083467eddba5500d40fad",
       "5ab0d6b3e6c96b550068b4c2",
       "5a82bf610fd5f95500a43b03",
       "5a841e56eb8207550007c3eb",
@@ -450,6 +455,11 @@
       "57dab243332f920e00b6cc17"
    ],
    "posUseNewCheckoutDialog":[
+      "55af5394e58fd648000000cf",
+      "59ad1c2fad89a9520055c57c",
+      "55af5394e58fd64800000392",
+      "57a1b89c53530e0e00fafecf",
+      "55af5394e58fd648000003e5",
       "5a93ccf1eeef2655003fc6f0",
       "57287ee22cb12f0e0007bc08",
       "581734c27271a90e00c5d1fe",
@@ -471,6 +481,11 @@
    ],
    "loyaltyProgram":[
       "test",
+      "55af5394e58fd648000000cf",
+      "59ad1c2fad89a9520055c57c",
+      "55af5394e58fd64800000392",
+      "57a1b89c53530e0e00fafecf",
+      "55af5394e58fd648000003e5",
       "5a93ccf1eeef2655003fc6f0",
       "57287ee22cb12f0e0007bc08",
       "5a732682ae507e5500515ff7",
@@ -497,6 +512,9 @@
    ],
    "loyaltyStamps":[
       "test",
+      "55af5394e58fd64800000392",
+      "57a1b89c53530e0e00fafecf",
+      "55af5394e58fd648000003e5",
       "5a93ccf1eeef2655003fc6f0",
       "5a732682ae507e5500515ff7",
       "5abcacd981d6265500791f5b",
@@ -508,6 +526,7 @@
    ],
    "mapOfTables":[
       "test",
+      "5ad083467eddba5500d40fad",
       "5ab0d6b3e6c96b550068b4c2",
       "55af5394e58fd648000003da",
       "5ab90af9f9edd6550040bdad",
@@ -619,10 +638,15 @@
    ],
    "disableStoryousLogo": [
       "57dab243332f920e00b6cc17",
-      "57972d9010d9bb0e00534bd9"
+      "57972d9010d9bb0e00534bd9",
+      "5aabdae997970355001b3bf5"
    ],
    "posPersonCountInCheckout": [
       "test",
-      "59e8bba7b133295300e4f35f"
+      "59e8bba7b133295300e4f35f",
+      "57dab243332f920e00b6cc17"
+   ],
+   "criticalAmount": [
+      "test"
    ]
 }
