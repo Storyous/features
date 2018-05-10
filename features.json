@@ -458,6 +458,7 @@
       "57dab243332f920e00b6cc17"
    ],
    "posUseNewCheckoutDialog":[
+      "59e8bba7b133295300e4f35f",
       "57972d9010d9bb0e00534bd9",
       "55af5394e58fd648000000cf",
       "59ad1c2fad89a9520055c57c",
@@ -485,6 +486,7 @@
    ],
    "loyaltyProgram":[
       "test",
+      "59e8bba7b133295300e4f35f",
       "55af5394e58fd648000000cf",
       "59ad1c2fad89a9520055c57c",
       "55af5394e58fd64800000392",
@@ -517,6 +519,7 @@
    ],
    "loyaltyStamps":[
       "test",
+      "59e8bba7b133295300e4f35f",
       "55af5394e58fd64800000392",
       "57a1b89c53530e0e00fafecf",
       "55af5394e58fd648000003e5",
