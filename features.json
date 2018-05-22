@@ -244,6 +244,7 @@
       "production"
    ],
    "openCashDrawer":[
+      "5af99e59846462005492899a",
       "5ad6f4cae89025004391b996",
       "5ad5bd6744bb110054276db8",
       "5ad59e6e44bb110054276717",
@@ -541,6 +542,7 @@
    ],
    "mapOfTables":[
       "test",
+      "5a71947097ceba55009e8044",
       "5afabba07ef20d00543e054e",
       "5874fdb98e0a910e0047a451",
       "59e9a69ffab3d25300807b59",
@@ -977,5 +979,8 @@
    "posExorigoExtendedLogging": [
       "5823169ac05a690e00107a32",
       "57dab243332f920e00b6cc17"
+   ],
+   "posMessagingApi": [
+      "pos>=4.340"
    ]
 }
