@@ -468,6 +468,7 @@
       "57dab243332f920e00b6cc17"
    ],
    "posUseNewCheckoutDialog":[
+      "58a0d4ea4606f80e00616cec",
       "5835727dc3f6a20e006c6a0e",
       "5a25129bec27d244000bc94e",
       "59e8bba7b133295300e4f35f",
@@ -500,6 +501,7 @@
    ],
    "loyaltyProgram":[
       "test",
+      "58a0d4ea4606f80e00616cec",
       "5835727dc3f6a20e006c6a0e",
       "5a25129bec27d244000bc94e",
       "59e8bba7b133295300e4f35f",
@@ -552,6 +554,7 @@
    ],
    "mapOfTables":[
       "test",
+      "57236357d24e100e00731b0b",
       "5a71947097ceba55009e8044",
       "5afabba07ef20d00543e054e",
       "5874fdb98e0a910e0047a451",
