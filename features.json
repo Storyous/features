@@ -335,7 +335,8 @@
       "59660643b2c0342d00319bb4",
       "5919a4313002b90e002fe9ae",
       "58208424350a000e00d6ac27",
-      "5b06e55d7a7799005407b05a"
+      "5b06e55d7a7799005407b05a",
+      "5b06e986b189a200543e9cfc"
    ],
    "automaticStockUpUpload":[
       "test",
@@ -400,7 +401,7 @@
       "55af5394e58fd64800000230"
    ],
    "jipAutomaticStockUpUpload":[
-      "5aa7ccda87c2085500e3a993"
+      
    ],
    "bidvestAutomaticStockUpUpload":[
 
@@ -480,6 +481,8 @@
    ],
    "posUseNewCheckoutDialog":[
       "582c340cc05a690e00109b2b",
+      "55af5394e58fd648000003b0",
+      "57d1819026e0b30e00ab557a",
       "5877d19fbe5eaf0e000fbc42",
       "55af5394e58fd6480000015a",
       "5afd9c72291b130051570b27",
@@ -519,6 +522,8 @@
    "loyaltyProgram":[
       "test",
       "582c340cc05a690e00109b2b",
+      "55af5394e58fd648000003b0",
+      "57d1819026e0b30e00ab557a",
       "5877d19fbe5eaf0e000fbc42",
       "55af5394e58fd6480000015a",
       "5afd9c72291b130051570b27",
@@ -560,6 +565,7 @@
    ],
    "loyaltyStamps":[
       "test",
+      "55af5394e58fd648000003b0",
       "5877d19fbe5eaf0e000fbc42",
       "55af5394e58fd6480000015a",
       "5afd9c72291b130051570b27",
