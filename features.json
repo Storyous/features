@@ -694,7 +694,8 @@
       "5ac21597ef48ba1500bdfc18",
       "59930b48f52cba2d0046e6f1",
       "5b0d974a6941040043704009",
-      "5b10147e93d8d600544c75a8"
+      "5b10147e93d8d600544c75a8",
+      "tariff:es_profi,es_standard,es_start"
    ],
    "recurringPayments":[
       "development",
