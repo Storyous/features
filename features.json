@@ -104,7 +104,8 @@
       "59e46bfc46de2b530090904b",
       "59930e185edac22d0056f100",
       "5a37db9c89e2a55500522f90",
-      "5a840834c1f9e75500cb01f0"
+      "5a840834c1f9e75500cb01f0",
+      "55af5394e58fd64800000247"
    ],
    "phoneNumberInBugreport":[
       "pos>=4.120"
@@ -661,7 +662,8 @@
       "5912e30cdb41250f00d721c7",
       "59e8bba7b133295300e4f35f",
       "5aea1bcae32946005421afb1",
-      "5b06e986b189a200543e9cfc"
+      "5b06e986b189a200543e9cfc",
+      "55af5394e58fd64800000247"
    ],
    "productLabels":[
       "test",
