@@ -765,5 +765,8 @@
    ],
    "posMessagingApi": [
       "pos>=4.340"
+   ],
+   "releaseApi": [
+      "test"
    ]
 }
