@@ -768,5 +768,8 @@
    ],
    "releaseApi": [
       "test"
+   ],
+   "banners": [
+      "test"
    ]
 }
