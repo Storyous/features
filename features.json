@@ -323,7 +323,7 @@
    ],
    "priceLevels":[
       "test",
-      "tariff:profi_4,standard_4,profi",
+      "tariff:profi_4,standard_4,profi,es_profi,es_standard,es_start", 
       "59930d045edac22d0056eb50",
       "5ae97214af1b680054f3e45a",
       "5ad6f4cae89025004391b996",
