@@ -805,5 +805,8 @@
    "banners": [
       "test",
       "production"
+   ],
+   "posReleaseApi": [
+      "pos>=4.350"
    ]
 }
