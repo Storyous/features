@@ -812,5 +812,8 @@
    ],
    "posReleaseApi": [
       "pos>=4.350"
+   ],
+   "posPrintsOverMessageApi": [
+      "pos>=4.360"
    ]
 }
