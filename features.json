@@ -804,7 +804,6 @@
       "57dab243332f920e00b6cc17"
    ],
    "posMessagingApi": [
-      "pos>=4.340"
    ],
    "releaseApi": [
       "test"
