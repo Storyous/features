@@ -806,7 +806,8 @@
       "57dab243332f920e00b6cc17"
    ],
    "posMessagingApi": [
-      "test"
+      "test",
+      "57dab243332f920e00b6cc17"
    ],
    "releaseApi": [
       "test"
@@ -819,9 +820,11 @@
       "pos>=4.350"
    ],
    "printsOverMessageApi": [
-      "test"
+      "test",
+      "57dab243332f920e00b6cc17"
    ],
    "posPrintsOverMessageApi": [
-      "pos>=4.360"
+      "pos>=4.360",
+      "57dab243332f920e00b6cc17"
    ]
 }
