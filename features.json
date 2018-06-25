@@ -839,5 +839,8 @@
    "posPrintsOverMessageApi": [
       "pos>=4.360",
       "57dab243332f920e00b6cc17"
+   ],
+   "paymentSessionsOverMessageApi": [
+      "test"
    ]
 }
