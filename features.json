@@ -287,7 +287,8 @@
       "5b221f1f35d0db0054adac06",
       "58b969bfcf03190e00c80677",
       "5947c7ef3e5e560f00030551",
-      "5b03cc8e9dc481005477a7ce"
+      "5b03cc8e9dc481005477a7ce",
+      "5b2bf8dfc0aa9f004f433411"
    ],
    "newMenuDatagrid":[
       "test",
@@ -370,7 +371,8 @@
       "58208424350a000e00d6ac27",
       "5b06e55d7a7799005407b05a",
       "5b06e986b189a200543e9cfc",
-      "55af5394e58fd6480000000b"
+      "55af5394e58fd6480000000b",
+      "5b2bf8dfc0aa9f004f433411"
    ],
    "automaticStockUpUpload":[
       "test",
@@ -752,6 +754,7 @@
       "5b0d974a6941040043704009",
       "5b10147e93d8d600544c75a8",
       "581734c27271a90e00c5d1fe",
+      "5b2bf8dfc0aa9f004f433411",
       "tariff:es_profi,es_standard,es_start"
    ],
    "recurringPayments":[
