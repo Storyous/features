@@ -842,6 +842,11 @@
       "57dab243332f920e00b6cc17"
    ],
    "paymentSessionsOverMessageApi": [
+      "57dab243332f920e00b6cc17",
+      "test"
+   ],
+   "posPaymentSessionsOverMessageApi": [
+      "57dab243332f920e00b6cc17",
       "test"
    ]
 }
