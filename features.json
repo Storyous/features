@@ -895,5 +895,8 @@
    "dailyMenuAmountsApi": [
       "test",
       "production"
+   ],
+   "menuSet": [
+      "test"
    ]
 }
