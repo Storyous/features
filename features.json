@@ -879,14 +879,13 @@
       "production"
    ],
    "posPaymentSessionsOverMessageApi": [
-      "pos>=6",
+      "pos>=4.381",
       "5a4e4c84232b75460030626f",
       "57dab243332f920e00b6cc17",
       "5718e2908e96a30d005e6050",
       "test"
    ],
    "logsOverMessageApi": [
-      "pos>=6",
       "57dab243332f920e00b6cc17"
    ],
    "dailyMenuOverMessageApi": [
