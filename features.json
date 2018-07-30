@@ -242,7 +242,7 @@
       "testing"
    ],
    "disallowPosVersionsToLogin":[
-      "pos<4.150"
+      "pos<4.300"
    ],
    "voiceControl":[
       "57dab243332f920e00b6cc17",
