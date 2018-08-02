@@ -939,7 +939,7 @@
       "test",
       "59e8bba7b133295300e4f35f"
    ],
-   "shouldHideDicFromBill" :[
+   "hideDicFromBill": [
       "test",
       "59e8bba7b133295300e4f35f"
    ]
