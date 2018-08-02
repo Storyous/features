@@ -938,5 +938,9 @@
    "blindClosure": [
       "test",
       "59e8bba7b133295300e4f35f"
+   ],
+   "shouldHideDicFromBill" :[
+      "test",
+      "59e8bba7b133295300e4f35f"
    ]
 }
