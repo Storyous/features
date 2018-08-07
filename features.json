@@ -935,11 +935,22 @@
    "canOrderInvitations": [
       "test",
       "59e8bba7b133295300e4f35f",
-      "5ae97c2615d1ee005497c5db"
+      "5ae97c2615d1ee005497c5db",
+      "5b2bf8dfc0aa9f004f433411",
+      "5b099361f8c042004e85131a",
+      "5b06e6b57a7799005407b0ef",
+      "5b06e55d7a7799005407b05a",
+      "59930d045edac22d0056eb50"
    ],
    "blindClosure": [
       "test",
-      "59e8bba7b133295300e4f35f"
+      "59e8bba7b133295300e4f35f",
+      "5ae97c2615d1ee005497c5db",
+      "5b2bf8dfc0aa9f004f433411",
+      "5b099361f8c042004e85131a",
+      "5b06e6b57a7799005407b0ef",
+      "5b06e55d7a7799005407b05a",
+      "59930d045edac22d0056eb50"
    ],
    "hideDicFromBill": [
       "test",
