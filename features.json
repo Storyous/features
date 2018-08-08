@@ -920,7 +920,7 @@
    ],
    "logsOverMessageApi": [
       "test",
-      "pos>=6"
+      "production"
    ],
    "dailyMenuOverMessageApi": [
       "test",
