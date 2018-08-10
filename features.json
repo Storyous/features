@@ -114,7 +114,8 @@
       "5a37db9c89e2a55500522f90",
       "5a840834c1f9e75500cb01f0",
       "55af5394e58fd64800000247",
-      "5912e30cdb41250f00d721c7"
+      "5912e30cdb41250f00d721c7",
+      "5b6173ac42a7a00058571fe1"
    ],
    "phoneNumberInBugreport":[
       "pos>=4.120"
@@ -211,7 +212,6 @@
       "5a2584e6b589275500ac9e12",
       "599a9062d7eef32d00e89163",
       "57c5644c5707bb0e00746a37",
-      "55af5394e58fd64800000273",
       "594cfab7cd067a0f002c9a44",
       "56be05d91953140e00b36318",
       "55af5394e58fd64800000266"
@@ -242,7 +242,7 @@
       "testing"
    ],
    "disallowPosVersionsToLogin":[
-      "pos<4.150"
+      "pos<4.300"
    ],
    "voiceControl":[
       "57dab243332f920e00b6cc17",
@@ -355,7 +355,8 @@
       "5919a4313002b90e002fe9ae",
       "594bf4e8cd067a0f002c5cb3",
       "tariff:lite_4",
-      "tariff:standard_4"
+      "tariff:standard_4",
+      "tariff:start"
    ],
    "newMenuEditForm":[
       "test",
@@ -364,6 +365,7 @@
    "priceLevels":[
       "test",
       "tariff:profi_4,standard_4,profi,es_profi,es_standard,es_start", 
+      "5a5e14b1739b794400e2f2b8",
       "5b39f38fb0a70100581f46ea",
       "5b269b6c523cbb0058d8b47a",
       "5af15818565cba0054bac4ce",
@@ -422,7 +424,6 @@
       "581201f6d5e8680d008f0cec",
       "5a719362d7e6735500d9fb6a",
       "5718e2908e96a30d005e6050",
-      "5a81e07c0d097855003f28c4",
       "5947bc383e5e560f0002fa03",
       "59941aa1f52cba2d00486a03",
       "55af5394e58fd64800000161",
@@ -431,7 +432,6 @@
       "5ab41582ac52b61500e253d3",
       "5ab412a78de8515500c6e886",
       "5ab8c488f9edd6550040b2d0",
-      "55af5394e58fd64800000106",
       "58330faad4029e0e0088f243",
       "55af5394e58fd648000003d1",
       "59db5ef60af7b65300523043",
@@ -446,7 +446,6 @@
       "55af5394e58fd648000002a7",
       "55af5394e58fd6480000023a",
       "55af5394e58fd6480000020d",
-      "55af5394e58fd64800000106",
       "55af5394e58fd648000000b3",
       "5821aa742dd3670e007c81a5",
       "57d17ae42f115f0e008cb503",
@@ -469,7 +468,6 @@
       "5aea1bcae32946005421afb1",
       "57236357d24e100e00731b0b",
       "55af5394e58fd64800000230",
-      "5950b31b49cfad0f00712a75",
       "5b151da2417a2100544f071a",
       "5b1541bedb99330054177b2e",
       "5b1f8d42d85e1a00546cf427",
@@ -479,7 +477,11 @@
       "5b236510bb05ba005463190a",
       "57bd70071b57e00e003e0617",
       "5b27a023381afc005892eee5",
-      "578603b474705c0e005bc33d"
+      "578603b474705c0e005bc33d",
+      "55af5394e58fd6480000024d",
+      "5b5ef85a9e16c9004f4a7406",
+      "5af5aa8823f46000546303bc",
+      "55af5394e58fd648000000cf"
    ],
    "jipAutomaticStockUpUpload":[
       
@@ -513,7 +515,8 @@
       "57dab243332f920e00b6cc17",
       "579776e2c624630e009f3cd1",
       "580f64e6ad4bc10e00aaa71e",
-      "5ad632451b5d890054a6095f"
+      "5ad632451b5d890054a6095f",
+      "5a0d42eba86c695500151d4c"
    ],
    "overviewRequests":[
       "5315eb206c14b390ac60331e",
@@ -534,6 +537,8 @@
       "57dab243332f920e00b6cc17"
    ],
    "posDisplayBig14Layout":[
+      "5b6818db8fdab70058710c33",
+      "5b5ef85a9e16c9004f4a7406",
       "5b28c434d370fa0058d7f77e",
       "5b1e73be5a4ee00054993286",
       "5b236510bb05ba005463190a",
@@ -580,7 +585,12 @@
       "5aeae85e53e359005421ce52",
       "5ae31af1cf8365004e13a510",
       "55af5394e58fd64800000090",
-      "59d5134f19b8645300c8703d"
+      "59d5134f19b8645300c8703d",
+      "5a72e793043019550019315b",
+      "5af95fb3144c22005487658e",
+      "5b21122fe8690b0048cff517",
+      "55af5394e58fd64800000106",
+      "57dab243332f920e00b6cc17"
    ],
    "posUseNewCheckoutDialog":[
       "582c340cc05a690e00109b2b",
@@ -781,7 +791,8 @@
       "5ae97c2615d1ee005497c5db",
       "5b28ed6ce94052005210b134",
       "55af5394e58fd648000002fd",
-      "5b0fbbed93d8d600544c5c0c"
+      "5b0fbbed93d8d600544c5c0c",
+      "5b406c022964b800524fea9c"
    ],
    "productLabels":[
       "test",
@@ -832,7 +843,9 @@
    "marketplace":[
       "development",
       "test",
-      "57dab243332f920e00b6cc17"
+      "57dab243332f920e00b6cc17",
+      "5919a4313002b90e002fe9ae",
+      "production"
    ],
    "customerDisplay":[
       "5a0188feb678c353000b9159",
@@ -913,7 +926,8 @@
       "test"
    ],
    "logsOverMessageApi": [
-      "57dab243332f920e00b6cc17"
+      "test",
+      "production"
    ],
    "dailyMenuOverMessageApi": [
       "test",
@@ -924,6 +938,52 @@
       "production"
    ],
    "menuSet": [
+      "test"
+   ],
+   "canOrderInvitations": [
+      "test",
+      "59e8bba7b133295300e4f35f",
+      "5ae97c2615d1ee005497c5db",
+      "5b2bf8dfc0aa9f004f433411",
+      "5b099361f8c042004e85131a",
+      "5b06e6b57a7799005407b0ef",
+      "5b06e55d7a7799005407b05a",
+      "59930d045edac22d0056eb50",
+      "5919a4313002b90e002fe9ae",
+      "57dab243332f920e00b6cc17"
+   ],
+   "blindClosure": [
+      "test",
+      "59e8bba7b133295300e4f35f",
+      "5ae97c2615d1ee005497c5db",
+      "5b2bf8dfc0aa9f004f433411",
+      "5b099361f8c042004e85131a",
+      "5b06e6b57a7799005407b0ef",
+      "5b06e55d7a7799005407b05a",
+      "59930d045edac22d0056eb50",
+      "5919a4313002b90e002fe9ae",
+      "57dab243332f920e00b6cc17"
+   ],
+   "hideDicFromBill": [
+      "test",
+      "59e8bba7b133295300e4f35f",
+      "55af5394e58fd64800000272",
+      "594294eaf24f820f00ba2410",
+      "5a2554cdec27d244000c229a",
+      "586238b26b6abd0e008cfe0c",
+      "57fce938e5afba0e00414609",
+      "55af5394e58fd6480000029d",
+      "5761414650215e0e00a06f5d",
+      "58b816817d892c0e00d08e7b",
+      "5806258559dc970e00a7e6af",
+      "580f2e0f47a77d0e00aceb8c"      
+   ],
+   "predefinedNotes": [
+      "test",
+      "57dab243332f920e00b6cc17",
+      "5919a4313002b90e002fe9ae"
+   ],
+   "menuItemImages": [
       "test"
    ]
 }
