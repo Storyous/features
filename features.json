@@ -999,14 +999,20 @@
       "581734c27271a90e00c5d1fe",
       "57dab243332f920e00b6cc17",
       "5919a4313002b90e002fe9ae",
-      "585a95a901609b0e0022eaf9"
+      "585a95a901609b0e0022eaf9",
+      "59e8bba7b133295300e4f35f"
    ],
    "menuItemImages": [
       "test",
       "5919a4313002b90e002fe9ae",
-      "57dab243332f920e00b6cc17"
+      "57dab243332f920e00b6cc17",
+      "59e8bba7b133295300e4f35f"
    ],
    "pmsIntegration": [
+      "test",
+      "59e8bba7b133295300e4f35f"
+   ],
+   "shouldPrintPaymentMethod": [
       "test",
       "59e8bba7b133295300e4f35f"
    ]
