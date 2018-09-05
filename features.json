@@ -118,7 +118,8 @@
       "5a840834c1f9e75500cb01f0",
       "55af5394e58fd64800000247",
       "5912e30cdb41250f00d721c7",
-      "5b6173ac42a7a00058571fe1"
+      "5b6173ac42a7a00058571fe1",
+      "5b8ff0b5f6ee930058e8843c"
    ],
    "phoneNumberInBugreport":[
       "pos>=4.120"
@@ -320,7 +321,8 @@
       "5aaa783a8b60ac5500922b58",
       "5b28e412e94052005210af78",
       "5b2ba30bd916520058f2a25c",
-      "5b33ac47a7549d0058b181b7"
+      "5b33ac47a7549d0058b181b7",
+      "5b8ff0b5f6ee930058e8843c"
    ],
    "newMenuDatagrid":[
       "test",
@@ -373,6 +375,7 @@
       "57431172bebe9b0e00e3b5c2",
       "5718e2908e96a30d005e6050",
       "59ad1c2fad89a9520055c57c",
+      "5b8ff0b5f6ee930058e8843c",
       "tariff:lite_4",
       "tariff:standard_4",
       "tariff:start"
@@ -428,7 +431,8 @@
       "5b06e986b189a200543e9cfc",
       "55af5394e58fd6480000000b",
       "5b2bf8dfc0aa9f004f433411",
-      "5ae97c2615d1ee005497c5db"
+      "5ae97c2615d1ee005497c5db",
+      "5b8ff0b5f6ee930058e8843c"
    ],
    "automaticStockUpUpload":[
       "test",
@@ -501,7 +505,8 @@
       "55af5394e58fd6480000024d",
       "5b5ef85a9e16c9004f4a7406",
       "5af5aa8823f46000546303bc",
-      "55af5394e58fd648000000cf"
+      "55af5394e58fd648000000cf",
+      "5b8ff0b5f6ee930058e8843c"
    ],
    "jipAutomaticStockUpUpload":[
    "5b756f840d892700583a5b69"
@@ -615,7 +620,8 @@
       "5af95fb3144c22005487658e",
       "5b21122fe8690b0048cff517",
       "55af5394e58fd64800000106",
-      "5a6851f694c69455001eb83d"
+      "5a6851f694c69455001eb83d",
+      "5b8ff0b5f6ee930058e8843c"
    ],
    "posUseNewCheckoutDialog":[
       "582c340cc05a690e00109b2b",
@@ -830,7 +836,8 @@
       "5b406c022964b800524fea9c",
       "5abd29e2f156485500c7a896",
       "5b800eb88c392800588b6e11",
-      "5b7d12eed4e3dc0058e76a1c"
+      "5b7d12eed4e3dc0058e76a1c",
+      "5b8ff0b5f6ee930058e8843c"
    ],
    "productLabels":[
       "test",
@@ -872,6 +879,7 @@
       "5b2bf8dfc0aa9f004f433411",
       "5ab0d6b3e6c96b550068b4c2",
       "5b269b6c523cbb0058d8b47a",
+      "5b8ff0b5f6ee930058e8843c",
       "tariff:es_profi,es_standard,es_start"
    ],
    "recurringPayments":[
