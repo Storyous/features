@@ -931,7 +931,8 @@
    ],
    "posPersonCountInCheckout": [
       "test",
-      "production"
+      "production",
+      "5a93e6827335ef55005b177e"
    ],
    "criticalAmount": [
       "test",
