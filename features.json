@@ -628,43 +628,6 @@
       "5b72f3543c0d380058a8766e"
    ],
    "posUseNewCheckoutDialog":[
-      "582c340cc05a690e00109b2b",
-      "55af5394e58fd648000003b0",
-      "57d1819026e0b30e00ab557a",
-      "5877d19fbe5eaf0e000fbc42",
-      "55af5394e58fd6480000015a",
-      "5afd9c72291b130051570b27",
-      "5afd9b362a355100543e0138",
-      "5ae97c2615d1ee005497c5db",
-      "58a0d4ea4606f80e00616cec",
-      "5835727dc3f6a20e006c6a0e",
-      "5a25129bec27d244000bc94e",
-      "59e8bba7b133295300e4f35f",
-      "57972d9010d9bb0e00534bd9",
-      "55af5394e58fd648000000cf",
-      "59ad1c2fad89a9520055c57c",
-      "55af5394e58fd64800000392",
-      "57a1b89c53530e0e00fafecf",
-      "55af5394e58fd648000003e5",
-      "5a93ccf1eeef2655003fc6f0",
-      "57287ee22cb12f0e0007bc08",
-      "581734c27271a90e00c5d1fe",
-      "5947bc383e5e560f0002fa03",
-      "55af5394e58fd64800000210",
-      "55af5394e58fd648000000f1",
-      "5abcacd981d6265500791f5b",
-      "58dba1de6ed2460e001ac4eb",
-      "5a2ec76da39c0f44006062fb",
-      "5aba00eafa83fa1500892a31",
-      "581348a6de3f450e0020f444",
-      "57230dced24e100e00731abf",
-      "55af5394e58fd64800000247",
-      "59e8bba7b133295300e4f35f",
-      "5a8d4702be44ce5500707b05",
-      "57dab243332f920e00b6cc17",
-      "5919a4313002b90e002fe9ae",
-      "5a75b658f60a3c15009312f1",
-      "5a732682ae507e5500515ff7",
       "pos>=4.340"
    ],
    "loyaltyProgram":[
@@ -855,6 +818,7 @@
       "5a93ccf1eeef2655003fc6f0",
       "581734c27271a90e00c5d1fe",
       "57dab243332f920e00b6cc17",
+      "5919a4313002b90e002fe9ae"
       "tariff:profi_4,standard_4,profi,standard"
    ],
    "splitBill":[
@@ -1000,7 +964,8 @@
       "test",
       "57dab243332f920e00b6cc17",
       "5ae97c2615d1ee005497c5db",
-      "59e8bba7b133295300e4f35f"
+      "59e8bba7b133295300e4f35f",
+      "5919a4313002b90e002fe9ae"
    ],
    "canOrderInvitations": [
       "test",
@@ -1021,9 +986,7 @@
       "5b06e6b57a7799005407b0ef",
       "5b06e55d7a7799005407b05a",
       "59930d045edac22d0056eb50",
-      "5919a4313002b90e002fe9ae",
       "57dab243332f920e00b6cc17",
-      "5919a4313002b90e002fe9ae",
       "5a732682ae507e5500515ff7",
       "59958894db7f4d2f0017669e"
    ],
@@ -1060,7 +1023,8 @@
       "test",
       "5a3923d0d8305d55004a4a7c",
       "59e8bba7b133295300e4f35f",
-      "57dab243332f920e00b6cc17"
+      "57dab243332f920e00b6cc17",
+      "5919a4313002b90e002fe9ae"
    ],
    "shouldPrintPaymentMethod": [
       "test",
