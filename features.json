@@ -436,7 +436,8 @@
       "55af5394e58fd6480000000b",
       "5b2bf8dfc0aa9f004f433411",
       "5ae97c2615d1ee005497c5db",
-      "5b8ff0b5f6ee930058e8843c"
+      "5b8ff0b5f6ee930058e8843c",
+      "5b19552ad59cb70054996f58"
    ],
    "automaticStockUpUpload":[
       "test",
@@ -857,6 +858,7 @@
       "5ab0d6b3e6c96b550068b4c2",
       "5b269b6c523cbb0058d8b47a",
       "5b8ff0b5f6ee930058e8843c",
+      "5b19552ad59cb70054996f58",
       "tariff:es_profi,es_standard,es_start"
    ],
    "recurringPayments":[
