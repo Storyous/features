@@ -588,6 +588,7 @@
       "57dab243332f920e00b6cc17"
    ],
    "posDisplayBig14Layout":[
+      "5b7ec4ff8164750058e4f06c",
       "5afc2354982e9d005147933e",
       "5b30d94b0c5bae0058f6a5b1",
       "5b61dfa49cf8bb0058d60a77",
@@ -760,6 +761,7 @@
    ],
    "mapOfTables":[
       "test",
+      "5b7ec4ff8164750058e4f06c",
       "5b8d579ceda6030058e48c34",
       "5b67f81a8e029c0058444c7c",
       "5b30d94b0c5bae0058f6a5b1",
@@ -1001,6 +1003,7 @@
    ],
    "menuSet": [
       "test",
+      "5b7ec4ff8164750058e4f06c",
       "5a93ccf1eeef2655003fc6f0",
       "581734c27271a90e00c5d1fe",
       "5b8683de7aacd80058a07701",
