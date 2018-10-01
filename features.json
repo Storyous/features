@@ -404,10 +404,6 @@
       "tariff:start",
       "5b19552ad59cb70054996f58"
    ],
-   "newMenuEditForm":[
-      "test",
-      "production"
-   ],
    "priceLevels":[
       "test",
       "tariff:profi_4,standard_4,profi,es_profi,es_standard,es_start", 
