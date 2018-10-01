@@ -120,7 +120,8 @@
       "55af5394e58fd64800000247",
       "5912e30cdb41250f00d721c7",
       "5b6173ac42a7a00058571fe1",
-      "5b8ff0b5f6ee930058e8843c"
+      "5b8ff0b5f6ee930058e8843c",
+      "5ab90af9f9edd6550040bdad"
    ],
    "phoneNumberInBugreport":[
       "pos>=4.120"
@@ -170,7 +171,8 @@
       "5a4e2e5302a5f15500064159",
       "5a2a6c67bcca4d4f00c53fb4",
       "5a93ccf1eeef2655003fc6f0",
-      "5b02b9274a4c17005488263c"
+      "5b02b9274a4c17005488263c",
+      "5b19552ad59cb70054996f58"
    ],
    "dailyMenu":[
       "test",
@@ -185,6 +187,7 @@
    "posFullscreen":[
    ],
    "testFeature":[
+      "598962c11dd4382d00a169a5",
       "tariff:profi,standard",
       "tariffId:553a61b39bfb20160000000b,56cec1a5df25010e00b0a6cf",
       "merchantId=55af5394e58fd6480000016e,55af5394e58fd64800000004"
@@ -329,10 +332,16 @@
       "5b7d12eed4e3dc0058e76a1c",
       "5b7da750d4e3dc0058e785f2",
       "5b9145701339b10058de1f18",
-      "5b98f73c67326600581cad9a"
+      "5b98f73c67326600581cad9a",
+      "5b19552ad59cb70054996f58",
+      "5b9909053d01a2005816650a"
    ],
    "newMenuDatagrid":[
       "test",
+      "56f16e701e6bfd0e004079a7",
+      "595b4ff0eed89c1200807497",
+      "5b9f635a6060b5005886ed01",
+      "5ad86c708db5050054562d84",
       "56e181a4b1d2a50e00ecd699", 
       "5a79a181d39548550001f5f1",
       "5a58a785131abb5500a40271",
@@ -387,9 +396,13 @@
       "570665bb0480410d002b5c22",
       "55af5394e58fd6480000010d",
       "598f4b46c8b9e42d0013bdda",
+      "580f64e6ad4bc10e00aaa71e",
+      "595342f9e0d20f1200458b21",
+      "55af5394e58fd6480000000b",
       "tariff:lite_4",
       "tariff:standard_4",
-      "tariff:start"
+      "tariff:start",
+      "5b19552ad59cb70054996f58"
    ],
    "priceLevels":[
       "test",
@@ -516,7 +529,9 @@
       "55af5394e58fd648000000cf",
       "5b8ff0b5f6ee930058e8843c",
       "5b2bfc1c402b630058c41ca3",
-      "59ad1c2fad89a9520055c57c"
+      "59ad1c2fad89a9520055c57c",
+      "5b7d199eb06d0900586f1da7",
+      "5b9a0bdd7d7a6f0058684c30"
    ],
    "jipAutomaticStockUpUpload":[
    "5b756f840d892700583a5b69"
@@ -575,6 +590,9 @@
       "57dab243332f920e00b6cc17"
    ],
    "posDisplayBig14Layout":[
+      "5b9a40766bbb3e0058231903",
+      "5b7ec4ff8164750058e4f06c",
+      "5afc2354982e9d005147933e",
       "5b30d94b0c5bae0058f6a5b1",
       "5b61dfa49cf8bb0058d60a77",
       "5b839c20f75dd40058dc3c7b",
@@ -641,6 +659,8 @@
    ],
    "loyaltyProgram":[
       "test",
+      "57a3243153d4170e006ff495",
+      "57aafd29b1bd980e0089cb84",
       "5b911b2b0389e80058ca498b",
       "58ee3f639aa3910f002a428a",
       "55af5394e58fd648000000da",
@@ -651,7 +671,6 @@
       "5b226d95bb05ba005462f272",
       "5b28e412e94052005210af78",
       "5a58a785131abb5500a40271",
-      "55af5394e58fd648000000e4",
       "5af6a86823f4600054633091",
       "55af5394e58fd6480000031a",
       "5a37ec84a81b0a5500fd11f5",
@@ -712,6 +731,8 @@
    ],
    "loyaltyStamps":[
       "test",
+      "57a3243153d4170e006ff495",
+      "57aafd29b1bd980e0089cb84",
       "58ee3f639aa3910f002a428a",
       "584825cfe76dfc0e006a73b6",
       "5addb73fe165d70054bf06c1",
@@ -746,6 +767,8 @@
    ],
    "mapOfTables":[
       "test",
+      "5b7ec4ff8164750058e4f06c",
+      "5b8d579ceda6030058e48c34",
       "5b67f81a8e029c0058444c7c",
       "5b30d94b0c5bae0058f6a5b1",
       "5b8683de7aacd80058a07701",
@@ -829,7 +852,10 @@
       "5b8ff0b5f6ee930058e8843c",
       "5b86858bd935e1004c74ceca",
       "5b98f73c67326600581cad9a",
-      "5b59ce4cecca7100589ef615"
+      "5b59ce4cecca7100589ef615",
+      "5b19552ad59cb70054996f58",
+      "5b9a40766bbb3e0058231903",
+      "5b9a0bdd7d7a6f0058684c30"
    ],
    "productLabels":[
       "test",
@@ -838,6 +864,7 @@
       "581734c27271a90e00c5d1fe",
       "57dab243332f920e00b6cc17",
       "5919a4313002b90e002fe9ae",
+      "5b19552ad59cb70054996f58",
       "tariff:profi_4,standard_4,profi,standard"
    ],
    "splitBill":[
@@ -873,6 +900,7 @@
       "5ab0d6b3e6c96b550068b4c2",
       "5b269b6c523cbb0058d8b47a",
       "5b8ff0b5f6ee930058e8843c",
+      "5b19552ad59cb70054996f58",
       "5b19552ad59cb70054996f58",
       "tariff:es_profi,es_standard,es_start"
    ],
@@ -982,6 +1010,8 @@
    ],
    "menuSet": [
       "test",
+      "5b7ec4ff8164750058e4f06c",
+      "5a93ccf1eeef2655003fc6f0",
       "581734c27271a90e00c5d1fe",
       "5b8683de7aacd80058a07701",
       "57dab243332f920e00b6cc17",
@@ -992,7 +1022,11 @@
       "5ad4a2a273e08a00548448c7",
       "5b839c20f75dd40058dc3c7b",
       "5b8d22d1dbb8e4005563ab55",
-      "5b30d94b0c5bae0058f6a5b1"
+      "5b30d94b0c5bae0058f6a5b1",
+      "5b19552ad59cb70054996f58",
+      "5b98f73c67326600581cad9a",
+      "5b76c8dc7874e60058d93158",
+      "5baa4283d737f90057669b8d"
    ],
    "canOrderInvitations": [
       "test",
@@ -1006,7 +1040,9 @@
       "5b06e55d7a7799005407b05a",
       "59930d045edac22d0056eb50",
       "5919a4313002b90e002fe9ae",
-      "57dab243332f920e00b6cc17"
+      "57dab243332f920e00b6cc17",
+      "5b19552ad59cb70054996f58",
+      "5a93ccf1eeef2655003fc6f0"
    ],
    "blindClosure": [
       "test",
@@ -1020,7 +1056,8 @@
       "5a732682ae507e5500515ff7",
       "59958894db7f4d2f0017669e",
       "5b7bbec2d9a8fe00585cc9c6",
-      "5b59ce4cecca7100589ef615"
+      "5b59ce4cecca7100589ef615",
+      "5b19552ad59cb70054996f58"
    ],
    "hideDicFromBill": [
       "test",
@@ -1045,7 +1082,9 @@
       "581734c27271a90e00c5d1fe",
       "5919a4313002b90e002fe9ae",
       "57dab243332f920e00b6cc17",
-      "59e8bba7b133295300e4f35f"
+      "59e8bba7b133295300e4f35f",
+      "5b19552ad59cb70054996f58",
+      "5a93ccf1eeef2655003fc6f0"
    ],
    "pmsIntegration": [
       "test",
@@ -1066,7 +1105,8 @@
       "55af5394e58fd6480000013b",
       "5b7ff42091cdf20058e91932",
       "57dab243332f920e00b6cc17",
-      "5a32afca0f10364400bea9c1"
+      "5a32afca0f10364400bea9c1",
+      "5b19552ad59cb70054996f58"
    ],
    "posLogUIActions": [
       "55af5394e58fd6480000010d",
@@ -1075,5 +1115,9 @@
       "5ab8b5e5f9edd6550040b035",
       "57d17ae42f115f0e008cb503",
       "5b61dfa49cf8bb0058d60a77"
+   ],
+   "confirmDelivery": [
+      "test",
+      "production"
    ]
 }
